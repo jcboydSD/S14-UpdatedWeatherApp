@@ -1,5 +1,5 @@
 // Note: 50 requests per day max with this app and key
-const key = 'AamrAmsPo2n5sslSYggGVvjK3L4Js1zr';
+const key = '41MahCzITGYInFgjVnhOGCCIFQsQobN4';
 // get weather information
 const getWeather = async (id) => {
   const base = 'http://dataservice.accuweather.com/currentconditions/v1/';
